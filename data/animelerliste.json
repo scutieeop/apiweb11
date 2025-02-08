@@ -1,0 +1,4535 @@
+{
+  "7463": {
+    "name": "Bilinmeyen Anime",
+    "logoUrl": "",
+    "bolumler": [
+      {
+        "episode": 1,
+        "season": 1,
+        "title": "Bölüm 1",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390d83e8bc0f314eada6f64",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972626",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-mkycuofjnm35.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/pmddr5eckwrl",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-47muohb3zo0t.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 2,
+        "season": 1,
+        "title": "Bölüm 2",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6787a353fd00127d6fd4a161",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972628",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-6heahxwrzl91.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/434zmxukt1n9",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-heayls71ewdz.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 3,
+        "season": 1,
+        "title": "Bölüm 3",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6787a3edfd00127d6fd4a162",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972630",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-lfe9n5v64mxs.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/ms8ptowpoyjg",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-58xcu6ue5hv1.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 4,
+        "season": 1,
+        "title": "Bölüm 4",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/662fdbd5ec50d766be410fd3",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972634",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5519900",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-gbmdphm4c0fr.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/n9iow9v1r4rz",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-vh6jelhx4pto.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/o36iv2dirycg",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/662fdbf060094",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/e/wdm97twkpgpg",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 5,
+        "season": 1,
+        "title": "Bölüm 5",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390dc5e8bc0f314eada6f68",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972638",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-wmitlzy31f1r.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/am6qx7jaoc01",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-2y8100w1nmh7.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 6,
+        "season": 1,
+        "title": "Bölüm 6",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390dd688bc0f314eada6f69",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972641",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-fidnph80i6l2.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/avpd8ad0kndv",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-v5vgasn5cloe.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 7,
+        "season": 1,
+        "title": "Bölüm 7",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390e0f78bc0f314eada6f6b",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972648",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-x5vo0wroa6ph.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/mdgvgjisv6uv",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-8qplz469uqzb.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 8,
+        "season": 1,
+        "title": "Bölüm 8",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390e2008bc0f314eada6f6c",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972651",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/j6XoOOqmL8IzWzl",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-zwgaiu3iev3r.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/63jrk3ofh54c",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-zv4vobxoy48v.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 9,
+        "season": 1,
+        "title": "Bölüm 9",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390e30b8bc0f314eada6f6d",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972655",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-4zpetaa6vbsi.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/q43z0qg1of7i",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-ryul1eevvzuh.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 10,
+        "season": 1,
+        "title": "Bölüm 10",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390e4008bc0f314eada6f6e",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972662",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/2zd7hs7ap9et",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-yijijr2bek6h.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-5tdzb4zdlbs2.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 11,
+        "season": 1,
+        "title": "Bölüm 11",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390e4f58bc0f314eada6f6f",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972666",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-fxeijc3bab06.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/hq4594ytcwwg",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-bveb2n0m1zu5.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 12,
+        "season": 1,
+        "title": "Bölüm 12",
+        "videos": [
+          {
+            "fansub": "Khaos - S. Erturk",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6390e5f68bc0f314eada6f70",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4972670",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-r0er3ye5g99i.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/ftj2ir7nm77e",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-k8bp6sutfys6.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Khaos - S. Erturk",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 13,
+        "season": 1,
+        "title": "Bölüm 13",
+        "videos": [
+          {
+            "fansub": "Outlander & Cs0kis",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6395f4a6d2a10e238108833b",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4975966",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-4od30jobs3mn.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/0j34fzncfcrf",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-e8meqq6bl5xt.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/65d8fb9735424e1e68a23a3b",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5443392",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/m7o48sh00z3f",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/65d8fbc00bf48",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/e/pmx2m4lx1rql",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 14,
+        "season": 1,
+        "title": "Bölüm 14",
+        "videos": [
+          {
+            "fansub": "Akari",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6395f7d7d2a10e238108833c",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Akari",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4975988",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Akari",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Akari",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-85dv9qm7recl.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Akari",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/tftp0fir984k",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Akari",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-ldt685nmn8ml.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Akari",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/65d8fca735424e1e68a23a3c",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5443396",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/m90wksgg50kh",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/65d8fcde797c4",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/e/kfjhpnruy2eb",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 15,
+        "season": 1,
+        "title": "Bölüm 15",
+        "videos": [
+          {
+            "fansub": "Outlander & Cs0kis",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6395fa09d2a10e238108833d",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4975998",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-4jaeq03qbb4i.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/714djiwiir2v",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-h80kr19he4v8.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/65d8fdb835424e1e68a23a3d",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5443401",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/m15cqbzs4oq4",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/65d8fddd75a04",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/e/dnfvkdqezixo",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 16,
+        "season": 1,
+        "title": "Bölüm 16",
+        "videos": [
+          {
+            "fansub": "Outlander & Cs0kis",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6395fd39d2a10e238108833e",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976020",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-ceyjmgghgbq8.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/8ho4437epqa4",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-e6ue0yxawqxd.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/65d8fec471b8322dba091064",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5443407",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/u7d1g5scpayx",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/65d8feef4a7b1",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/e/tdbxegrsk8q9",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Khaos - Lady_Exhilaro - Deat H Note.",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 17,
+        "season": 1,
+        "title": "Bölüm 17",
+        "videos": [
+          {
+            "fansub": "Outlander & Cs0kis",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63960066d2a10e238108833f",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976039",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-4s3oyuhhte0t.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/emu1fy23a39z",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-oz1fsck6n0gp.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 18,
+        "season": 1,
+        "title": "Bölüm 18",
+        "videos": [
+          {
+            "fansub": "Outlander & Cs0kis",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/639603dbd2a10e2381088340",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976056",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-3lmueh75a53s.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/nmidcructr0x",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-xaybkqpngjll.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 19,
+        "season": 1,
+        "title": "Bölüm 19",
+        "videos": [
+          {
+            "fansub": "Outlander & Cs0kis",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63960742d2a10e2381088341",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976071",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-x2cknemod7br.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/jxtn4eict43b",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-cyuegjfflpob.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 20,
+        "season": 1,
+        "title": "Bölüm 20",
+        "videos": [
+          {
+            "fansub": "Dantes / Lady_Exhilero / Deat H Note. // http://www.anisekai.com",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6398be79d2a10e2381088372",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Dantes / Lady_Exhilero / Deat H Note. // http://www.anisekai.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4977995",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Dantes / Lady_Exhilero / Deat H Note. // http://www.anisekai.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Dantes / Lady_Exhilero / Deat H Note. // http://www.anisekai.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-0wb1lam4fxlt.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Dantes / Lady_Exhilero / Deat H Note. // http://www.anisekai.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/a25fegl6ipqo",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Dantes / Lady_Exhilero / Deat H Note. // http://www.anisekai.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-r3jevo75lddo.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Dantes / Lady_Exhilero / Deat H Note. // http://www.anisekai.com",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 21,
+        "season": 1,
+        "title": "Bölüm 21",
+        "videos": [
+          {
+            "fansub": "Dantes",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63960c9ed2a10e2381088342",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976096",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/0Ze0BaMKqbtbGwj",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-0a25mr0hawtt.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/5zlc98gmuhbw",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-npp2dg2zadih.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Dantes",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 22,
+        "season": 1,
+        "title": "Bölüm 22",
+        "videos": [
+          {
+            "fansub": "Outlander & Cs0kis",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/639626cbd2a10e2381088343",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976263",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-5ukqzzxi7qs9.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/fqwm9z8dqlkk",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-w2nz5ilws7en.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 23,
+        "season": 1,
+        "title": "Bölüm 23",
+        "videos": [
+          {
+            "fansub": "Outlander & Cs0kis",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/639629c7d2a10e2381088344",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976300",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-838n31sxexaa.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/2e2g5vzik657",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-75bct0fcol6c.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Outlander & Cs0kis",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 24,
+        "season": 1,
+        "title": "Bölüm 24",
+        "videos": [
+          {
+            "fansub": "Dantes",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63962af4d2a10e2381088345",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976309",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-6p2ywizt7sjk.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/uw93u1bzkw7c",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Dantes",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-4aglj8mg926h.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Dantes",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 25,
+        "season": 1,
+        "title": "Bölüm 25",
+        "videos": [
+          {
+            "fansub": "guhercile",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63962bf0d2a10e2381088346",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976317",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-q0mqi6u2xc56.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/9naqcjikeh7n",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-vyg3ok5d6rs2.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "guhercile",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 26,
+        "season": 1,
+        "title": "Bölüm 26",
+        "videos": [
+          {
+            "fansub": "guhercile",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63962e54d2a10e2381088347",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976332",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-iuaip26h60o6.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/3ue8j7seaiam",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "guhercile",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-sybp57afball.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "guhercile",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 27,
+        "season": 1,
+        "title": "Bölüm 27",
+        "videos": [
+          {
+            "fansub": "Nadeko",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/639630b1d2a10e2381088348",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976357",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-11hgphz3tr73.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/ztac6mz11wdk",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-zztryavgttv4.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Nadeko",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 28,
+        "season": 1,
+        "title": "Bölüm 28",
+        "videos": [
+          {
+            "fansub": "Nadeko",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6396333dd2a10e2381088349",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976373",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-mcnjy75om7vf.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/xv4d362zhw9n",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-ggatt78l8zqn.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Nadeko",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 29,
+        "season": 1,
+        "title": "Bölüm 29",
+        "videos": [
+          {
+            "fansub": "Nadeko",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/639635ddd2a10e238108834a",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976385",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-366ll6z7hxer.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/pwjofqeo4agn",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-m5tmef6wmefw.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Nadeko",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 30,
+        "season": 1,
+        "title": "Bölüm 30",
+        "videos": [
+          {
+            "fansub": "Nadeko",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63963838d2a10e238108834b",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976402",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-f82sajclb1zt.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/ox6myi3t0xlo",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-t9y8e02gxc3x.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Nadeko",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 31,
+        "season": 1,
+        "title": "Bölüm 31",
+        "videos": [
+          {
+            "fansub": "Nadeko",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63963d35d2a10e238108834c",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976437",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-vt74oip86lhn.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/71t5u3pj6wz8",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-4y9g708sz7rd.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Nadeko",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 32,
+        "season": 1,
+        "title": "Bölüm 32",
+        "videos": [
+          {
+            "fansub": "shie • Chappy • nepenthesubs.com",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6398bfbdd2a10e2381088373",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4977998",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-lwo84xzjx7wn.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/v12ktybt76gd",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-cpakxzsac6qb.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 33,
+        "season": 1,
+        "title": "Bölüm 33",
+        "videos": [
+          {
+            "fansub": "Nadeko",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63964204d2a10e238108834d",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976468",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-tsl4gfkh1qa6.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/83hvj8zffup3",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-g03pw32v1oko.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Nadeko",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 34,
+        "season": 1,
+        "title": "Bölüm 34",
+        "videos": [
+          {
+            "fansub": "Nadeko",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63965ac7d2a10e238108834e",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976574",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-ns5e749ttgrw.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/y259s4dmhde4",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-5w7i86b3gx4m.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Nadeko",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 35,
+        "season": 1,
+        "title": "Bölüm 35",
+        "videos": [
+          {
+            "fansub": "shie • Chappy • nepenthesubs.com",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6398c13dd2a10e2381088374",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4978002",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-d8zos756bs48.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/kkrdkb8fj41p",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-xhmoap52cz3f.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "shie • Chappy • nepenthesubs.com",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 36,
+        "season": 1,
+        "title": "Bölüm 36",
+        "videos": [
+          {
+            "fansub": "Nadeko",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/63965f8ed2a10e238108834f",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4976589",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-tam7d85qi6r7.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/8c7jubq6yp1h",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Nadeko",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-pnic8kw0nxzt.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Nadeko",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 37,
+        "season": 1,
+        "title": "Bölüm 37",
+        "videos": [
+          {
+            "fansub": "Umi & HakaiRyuu",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6506f15ea42d4cda68348d12",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Umi & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=4999230",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Umi & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Umi & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-c8gxsqj68vvw.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Umi & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/4nimet3mhxye",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-1oupy9t5e8gp.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Umi & HakaiRyuu",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 38,
+        "season": 1,
+        "title": "Bölüm 38",
+        "videos": [
+          {
+            "fansub": "nikami - bcykn",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6506f0f6500b95f594abbe46",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5013134",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://aparat.cam/embed-fi7fhzi8o0eq.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Aparat",
+                "name": "Aparat",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-uhvhrimh3lvj.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/6lgyua5zav5a",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-r5gy1a7yt87c.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 39,
+        "season": 1,
+        "title": "Bölüm 39",
+        "videos": [
+          {
+            "fansub": "Umi & luvena & HakaiRyuu",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6506f003500b95f594abbe45",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/dcurhgkcagr1",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/6506f02496fc6",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "nikami - bcykn",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6506f08aa42d4cda68348d11",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5013142",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://aparat.cam/embed-75jg24uj4koq.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Aparat",
+                "name": "Aparat",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-160j5gvl17pe.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/tgtpoij9lcmd",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-iau8sg64ofkj.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "nikami - bcykn",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 40,
+        "season": 1,
+        "title": "Bölüm 40",
+        "videos": [
+          {
+            "fansub": "Umi & luvena & HakaiRyuu",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6506ef95500b95f594abbe44",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5029816",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5022002",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5022001",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamtape.com/e/false",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamtape",
+                "name": "Streamtape",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-embed-rkds7b71w7go.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://vudeo.net/embed-ibgo9rchi6wo.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vudeo",
+                "name": "Vudeo",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/n4byv9wxhoh4",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1px7jVR9cuQkX3jkMb2ELAEx9MvyuLA5M/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedgram.com/v/63q1996585040",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Upload",
+                "name": "Upload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedo.co/e/gqha01sofy0i/",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedo",
+                "name": "Embedo",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://www.liiivideo.com/embed-g00xm5r0nfea.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Liiivideo",
+                "name": "Liiivideo",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/4218769443581",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://www.dailymotion.com/embed/video/x8hkmfh",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "dailymotion",
+                "name": "dailymotion",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://savefileway.com/4CEG/[HolySubs]_Bungou_Stray_Dogs_4th_Season_-_04.mp4",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Savefileway",
+                "name": "Savefileway",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/znxqe1d6swxo",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.la/d/wbgg2pom4bkj",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://sbchill.com/2elshlifw3h1.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sbchill",
+                "name": "Sbchill",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamzz.to/fYXMwbHcxZDZ4Zjhpc3dw",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamzz",
+                "name": "Streamzz",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://tubeload.co/e/somyh2mcapid/",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tubeload",
+                "name": "Tubeload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-ninoblpdrrpv.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/drk83c78v0wu",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://cloudvideo.tv/emb.html?rcyv53cwj6x3",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Cloudvideo",
+                "name": "Cloudvideo",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://vidhdthe.online/embed-wcjaz5tdzzs0.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Hdvid",
+                "name": "Hdvid",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://highload.to/e/j5krnjtm4crf",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Highload",
+                "name": "Highload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://www.mp4upload.com/embed-6z0qkom2ahb8.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Www",
+                "name": "Www",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://mvidoo.com/qoe2aiunbd0m/[HolySubs]_Bungou_Stray_Dogs_4th_Season_-_04.mp4.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Mvidoo",
+                "name": "Mvidoo",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://filemoon.sx/e/lc52kcf4fl7l",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Filemoon",
+                "name": "Filemoon",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/19u3iu8uh69d",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/6506efbf941c3",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 41,
+        "season": 1,
+        "title": "Bölüm 41",
+        "videos": [
+          {
+            "fansub": "Umi & luvena & kathyn - holysubs.net",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6506ef2da42d4cda68348d10",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5028564",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedgram.com/f/63qnps2o457q0",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedgram",
+                "name": "Embedgram",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://filemoon.sx/e/mbomw4mn6duf/_HolySubs__Bungou_Stray_Dogs_-_05__40_1080p_41_.mp4",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Filemoon",
+                "name": "Filemoon",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamzz.to/fOWhhMm45bnNrNjB3ZXgw",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamzz",
+                "name": "Streamzz",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://cloudvideo.tv/emb.html?znisu1dc06v9",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Cloudvideo",
+                "name": "Cloudvideo",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://sbrity.com/vgwdrrgqdl2a.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sbrity",
+                "name": "Sbrity",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedo.co/e/bd6a9rmhjflo/",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedo",
+                "name": "Embedo",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://tubeload.co/e/yokqi5fu9zls/",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tubeload",
+                "name": "Tubeload",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://mvidoo.com/guyj1lhg0mnz/[HolySubs]_Bungou_Stray_Dogs_-_05_(1080p).mp4.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Mvidoo",
+                "name": "Mvidoo",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://vtube.to/feesnwv9g0rm.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vtube",
+                "name": "Vtube",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/i369y4nibwg9",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.com/embed-qcgq410nlp9q.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://vidhdthe.online/embed-9z33dx9s7pd7.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Hdvid",
+                "name": "Hdvid",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://highload.to/e/uhiga41cieoa",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Highload",
+                "name": "Highload",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/thc2mvsea1o0",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://www.liiivideo.com/embed-prmm1oydra5n.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Liiivideo",
+                "name": "Liiivideo",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/4239664483069",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1OXwuVFpjxONaqbR2wo-Mx9D30ZdvttJM/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/e7aqiq4ggv6t",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/6506ef5468f6d",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Umi & luvena & kathyn - holysubs.net",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 42,
+        "season": 1,
+        "title": "Bölüm 42",
+        "videos": [
+          {
+            "fansub": "Umi & luvena & HakaiRyuu",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6506e889500b95f594abbe42",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5057737",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5057738",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1GMkHDqyCULg23VdxMfxdUFVhzi_-q_eo/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedo.co/e/yztx6a3ckhxs/",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedo",
+                "name": "Embedo",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/i0dzl851qzeo",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://vidhdthe.online/embed-knskomuppzms.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Hdvid",
+                "name": "Hdvid",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://highload.to/e/ukqcbyjkltbj",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Highload",
+                "name": "Highload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamzz.to/fMXo2MW8zaHd4OHZvUGxB",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamzz",
+                "name": "Streamzz",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/k2cj3tc7hu48",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/4311772433149",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedgram.com/v/63s9251r4o0o8",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Upload",
+                "name": "Upload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://filemoon.sx/e/hkhr66wh62mh",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Filemoon",
+                "name": "Filemoon",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://tubeload.co/e/8igoryhldbcq/",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tubeload",
+                "name": "Tubeload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://sbbrisk.com/nrfpnnmplp37.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sbbrisk",
+                "name": "Sbbrisk",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.co/7d41nrl1urmg.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://cloudvideo.tv/emb.html?v1xxava4bfg5",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Cloudvideo",
+                "name": "Cloudvideo",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://www.mp4upload.com/embed-f3bnis8uwek6.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Www",
+                "name": "Www",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://vtube.to/x24j5f7skedb.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vtube",
+                "name": "Vtube",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://streamvid.net/oneha2lnfy4g",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Streamvid",
+                "name": "Streamvid",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://wolfstream.tv/df4iv6hd8l7w/[HolySubs]_Bungou_Stray_Dogs_4th_Season_-_06.mp4.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Wolfstream",
+                "name": "Wolfstream",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://mvidoo.com/fgbutwiggf4m/[HolySubs]_Bungou_Stray_Dogs_4th_Season_-_06.mp4.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Mvidoo",
+                "name": "Mvidoo",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://savefileway.com/4DTS/[HolySubs]_Bungou_Stray_Dogs_4th_Season_-_06.mp4",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Savefileway",
+                "name": "Savefileway",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://dood.watch/e/fibt60ohjc45",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://embedrise.com/v/6506e8ae785fc",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Embedrise",
+                "name": "Embedrise",
+                "fansub": "Umi & luvena & HakaiRyuu",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "11794": {
+    "name": "Bilinmeyen Anime",
+    "logoUrl": "",
+    "bolumler": [
+      {
+        "episode": 1,
+        "season": 1,
+        "title": "Bölüm 1",
+        "videos": [
+          {
+            "fansub": "net-rip",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6782b91171d1426dc6726e26",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "net-rip",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/0o6fupnqez0l",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "net-rip",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-pecijvnq5jr2.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "net-rip",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Kagura & HakaiRyuu",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6782f33f3e69f288c883fa62",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/oijhw7iugue8",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-x5gkfga4qrh4.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Infinite Fansub / Çevirmen: y1pt",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6788060c19ed08e6bcf45fff",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Infinite Fansub / Çevirmen: y1pt",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/a18qihirusey",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Infinite Fansub / Çevirmen: y1pt",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-psda99uhye4m.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Infinite Fansub / Çevirmen: y1pt",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "octowler & Ceastouth",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6789118f0ffbb1b60fda0b7a",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "octowler & Ceastouth",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/i40a9zu6sklt",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "octowler & Ceastouth",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-jullh791c82a.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "octowler & Ceastouth",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+            "sources": [
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5799219",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1TrfWlVeojuKRO4ZLGPenTuRtHFO8NqnS/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/9149632547449",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 2,
+        "season": 1,
+        "title": "Bölüm 2",
+        "videos": [
+          {
+            "fansub": "Çeviri:Geze Redakte:Kintha Encode:zehif_06",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/6782aeb671d1426dc6726e23",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Çeviri:Geze Redakte:Kintha Encode:zehif_06",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/x9g4jqsvxfg2",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Çeviri:Geze Redakte:Kintha Encode:zehif_06",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-nn23pkvjaozz.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Çeviri:Geze Redakte:Kintha Encode:zehif_06",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "NightRuling & Asteria / discord.gg/2Mz7Mvd8Cz",
+            "sources": [
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5801549",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "NightRuling & Asteria / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1pB6yDbCLAthI7rOk_6ytf5tXaUJ4J2CT/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "NightRuling & Asteria / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/9160822426233",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "NightRuling & Asteria / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              },
+              {
+                "url": "https://luluvdo.com/qm658r3d152c",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Luluvdo",
+                "name": "Luluvdo",
+                "fansub": "NightRuling & Asteria / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Sibnet",
+            "sources": [
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5806221",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Sibnet",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Kagura & HakaiRyuu",
+            "sources": [
+              {
+                "url": "https://doodstream.com/e/92fi9vmyucad",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-wjiilv6vfxid.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Doodstream",
+            "sources": [
+              {
+                "url": "https://doodstream.com/e/6t52mbamh93s",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Doodstream",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Hdvid",
+            "sources": [
+              {
+                "url": "https://vidhdthe.online/embed-mh0tqjd2pxjg.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Hdvid",
+                "name": "Hdvid",
+                "fansub": "Hdvid",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "My",
+            "sources": [
+              {
+                "url": "https://my.mail.ru/video/embed/8179442134907098123",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "My",
+                "name": "My",
+                "fansub": "My",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "OK",
+            "sources": [
+              {
+                "url": "https://ok.ru/videoembed/9489468820201",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "OK",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Voe",
+            "sources": [
+              {
+                "url": "https://voe.sx/e/eaiapq9yn5o7",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Voe",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Filemoon",
+            "sources": [
+              {
+                "url": "https://filemoon.sx/e/8hsxgazxa2bw",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Filemoon",
+                "name": "Filemoon",
+                "fansub": "Filemoon",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Cdn4",
+            "sources": [
+              {
+                "url": "https://cdn4.1vid1shar.space/i5vzx392vusn.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Cdn4",
+                "name": "Cdn4",
+                "fansub": "Cdn4",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Gett",
+            "sources": [
+              {
+                "url": "https://gett.su/file/7hvg2l7j8up3/view.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Gett",
+                "name": "Gett",
+                "fansub": "Gett",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Luluvdo",
+            "sources": [
+              {
+                "url": "https://luluvdo.com/8lxljtjnlfjy",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Luluvdo",
+                "name": "Luluvdo",
+                "fansub": "Luluvdo",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Pixeldrain",
+            "sources": [
+              {
+                "url": "https://pixeldrain.com/u/P6yMbzKW",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Pixeldrain",
+                "name": "Pixeldrain",
+                "fansub": "Pixeldrain",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Ryderjet",
+            "sources": [
+              {
+                "url": "https://ryderjet.com/file/m4wwe8o99hmd",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Ryderjet",
+                "name": "Ryderjet",
+                "fansub": "Ryderjet",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Www",
+            "sources": [
+              {
+                "url": "https://www.yourupload.com/embed/bo2sJb14E13d",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Www",
+                "name": "Www",
+                "fansub": "Www",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Vtbe",
+            "sources": [
+              {
+                "url": "https://vtbe.to/85s0m7hg3uh6.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vtbe",
+                "name": "Vtbe",
+                "fansub": "Vtbe",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 3,
+        "season": 1,
+        "title": "Bölüm 3",
+        "videos": [
+          {
+            "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/678bd91069464d15eb2d0a6a",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1WVtkXNcsNsEXavQbKAqgZGWzhPmOKjHv/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://dai.ly/kmq6fN90C4MPF5Cg7he",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Dai",
+                "name": "Dai",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://luluvdo.com/yrqvuplx4pz0",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Luluvdo",
+                "name": "Luluvdo",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/bwxvphxyjhfk",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "http://vidmoly.to/embed-11nm721rfto6.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vidmoly",
+                "name": "Vidmoly",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://vidhdthe.online/embed-78nprlgn0rwx.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Hdvid",
+                "name": "Hdvid",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/9137363421944",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://short.ink/xbBoN7bWE",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Short",
+                "name": "Short",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/f6sl4dfrwkbo",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-drizcn0ua4ih.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Kagura & HakaiRyuu",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/678ede791818bdd00c4a2dfd",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/zc79gajdif47",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-17i7t6hxmjt6.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+            "sources": [
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5808285",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1NPF04KBdJFlrdPaZinh68Zs8tPmdob0Y/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/9193944255097",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              },
+              {
+                "url": "https://luluvdo.com/ek5c5zclumr5",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Luluvdo",
+                "name": "Luluvdo",
+                "fansub": "NightRuling / discord.gg/2Mz7Mvd8Cz",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 4,
+        "season": 1,
+        "title": "Bölüm 4",
+        "videos": [
+          {
+            "fansub": "Çeviri: Perpo Ada Encode: Kingsama",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/67951538b1ae675dacedee06",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Çeviri: Perpo Ada Encode: Kingsama",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Kagura & HakaiRyuu",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/67967c39b1ae675dacedee36",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/g5rxk5rjtxkk",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-b5rwntj4j5gf.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Kagura & HakaiRyuu",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+            "sources": [
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5806418",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/1XSfT36aT4KokHuYE2mY8SszZnopdQLts/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://vidhdthe.online/embed-7ech183suagq.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Hdvid",
+                "name": "Hdvid",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/abyst420y9hv",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/9161595292408",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://luluvdo.com/rywgnzzl9ll9",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Luluvdo",
+                "name": "Luluvdo",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "http://vidmoly.to/embed-d0tq3jat729k.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vidmoly",
+                "name": "Vidmoly",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://voe.sx/e/mesng6ijafsi",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Voe",
+                "name": "Voe",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "http://dailymotion.com/video/x9d0cqc",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Dailymotion",
+                "name": "Dailymotion",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "episode": 5,
+        "season": 1,
+        "title": "Bölüm 5",
+        "videos": [
+          {
+            "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/679e7794b00f138db1d44c58",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://video.sibnet.ru/shell.php?videoid=5812114",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Sibnet",
+                "name": "Sibnet",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://drive.google.com/file/d/12-dYRp2A-1Eex43cMRekxeclfh1q5KEH/preview",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Google Drive",
+                "name": "Google Drive",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://ok.ru/videoembed/9189384522488",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "OK",
+                "name": "OK",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://short.ink/mLD4dYWiz",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Short",
+                "name": "Short",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://vidhdthe.online/embed-6fr3r1fky6yd.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Hdvid",
+                "name": "Hdvid",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://dai.ly/k24EZ37c3othxtClGm0",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Dai",
+                "name": "Dai",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://luluvdo.com/hqh9i5d0xixd",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Luluvdo",
+                "name": "Luluvdo",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "http://vidmoly.to/embed-qxleu17eipk2.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Vidmoly",
+                "name": "Vidmoly",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/7kxo4qxx7nxd",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/xs0wd2vcdk7l",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-j5mb8pcelm38.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Kingsama discord.gg/codeanimee - www.instagram.com/codeanimee",
+                "language": "tr"
+              }
+            ]
+          },
+          {
+            "fansub": "Infinite Fansub Çeviri:Reany",
+            "sources": [
+              {
+                "url": "https://tau-video.xyz/embed/679f5a46b00f138db1d44c78",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Tau Video",
+                "name": "Tau Video",
+                "fansub": "Infinite Fansub Çeviri:Reany",
+                "language": "tr"
+              },
+              {
+                "url": "https://doodstream.com/e/s6rdkf608egj",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Doodstream",
+                "name": "Doodstream",
+                "fansub": "Infinite Fansub Çeviri:Reany",
+                "language": "tr"
+              },
+              {
+                "url": "https://uqload.io/embed-aoygnyhtlsof.html",
+                "type": "embed",
+                "quality": "regular",
+                "provider": "Uqload",
+                "name": "Uqload",
+                "fansub": "Infinite Fansub Çeviri:Reany",
+                "language": "tr"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

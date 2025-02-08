@@ -1,0 +1,372 @@
+import {
+  Client,
+  Message,
+  PollAnswer,
+  StageChannel,
+  TextChannel,
+  VoiceChannel,
+} from "discord.js-selfbot-v13";
+import { Streamer, Utils } from "@dank074/discord-video-stream";
+import config from "./config.js";
+import { prepareStream, playStream } from "./newApi.js";
+import { sendPreviewRequest } from "./streamPreview.js";
+import axios from "axios";
+const streamer = new Streamer(new Client());
+let current: ReturnType<typeof prepareStream>["command"];
+process.on("unhandledRejection", async (reason, promise) => {
+  console.log(
+    `├────────────┬\n│ ANTI CRASH │ -> unhandledRejection\n├────────────• `
+  );
+  console.log(reason, promise);
+});
+
+process.on("uncaughtExceptionMonitor", async (err, origin) => {
+  console.log(
+    `├────────────┬\n│ ANTI CRASH │ -> uncaughtExceptionMonitor\n├────────────• `
+  );
+  console.log(err, origin);
+});
+process.on("uncaughtException", async (err, origin) => {
+  console.log(
+    `├────────────┬\n│ ANTI CRASH │ -> uncaughtException\n├────────────• `
+  );
+  console.log(err, origin);
+});
+process.on("warning", async (error) => {
+  return console.log(`├─────────┬\n│ WARNING │ -> Process \n├─────────•`);
+});
+streamer.client.on("ready", async () => {
+  console.log(`--- ${streamer.client.user.tag} is ready ---`);
+});
+type Last = {
+  type: "anime" | "video" | "fansub";
+  msg: Message;
+  msge: Message;
+  animeList: AnimeSearchResponse | AnimeEpisode[] | any;
+};
+let last: Last | undefined = undefined;
+streamer.client.on("messageCreate", async (msg) => {
+  if (msg.author.bot) return;
+
+  if (!config.admins.includes(msg.author.id)) return;
+
+  if (!msg.content) return;
+
+  if (msg.content.startsWith(`$play`)) {
+    if (current) return;
+    const args = parseArgs(msg.content);
+    if (!args) return;
+    const animeList = await searchAnimecix(args);
+    if (!animeList.results?.length) {
+      msg.reply("Anime bulunamadı.");
+      return;
+    }
+    let msge = await msg.reply({
+      poll: {
+        question: {
+          text: "Hangi anime?",
+        },
+        //@ts-ignore
+        answers: animeList.results.slice(0, 4).map((anime) => {
+          return {
+            text: `${anime.name?.length ?? 0 > 55
+              ? anime.name.slice(0, 50) + "..."
+              : anime.name
+              }`,
+          };
+        }),
+        duration: 1,
+        allowMultiselect: false,
+      },
+    });
+    last = { type: "anime", msge, msg, animeList };
+    return;
+  } else if (msg.content.startsWith("$disconnect")) {
+    streamer.leaveVoice();
+    current?.kill("SIGTERM")
+    msg.react("👍");
+  }
+});
+streamer.client.on("messagePollVoteAdd", async (answer, userId) => {
+  console.log(answer, userId);
+  if (!config.admins.includes(userId)) return;
+  if (!last) return;
+  if (last.type == "anime") {
+    await getAnimeId(answer, userId);
+  }
+  if (last.type == "fansub") {
+    await selectFansub(answer, userId);
+  }
+  if (last.type == "video") {
+    await videoQuality(answer, userId);
+  }
+});
+
+async function videoQuality(answer: PollAnswer, userId: string) {
+  if (last.msge.id == answer.poll.message.id) {
+    let response: TextChannel = streamer.client.channels.cache.get(
+      answer.poll.message.channelId ?? ""
+    ) as TextChannel;
+    let Func: any = undefined;
+
+    Func = response.send.bind(response);
+    last.msge.delete().catch(console.error);
+
+    const animeList = last.animeList;
+    const video = animeList[answer.id - 1];
+    await playVideo(userId, video.url);
+  }
+}
+async function playVideo(userId: string, url: any) {
+  const user = streamer.client.users.cache.get(userId);
+  const channel = user.voice.channel as VoiceChannel;
+  if (!user) return;
+  console.log(
+    `Attempting to join voice channel ${channel?.guildId}/${channel.id}`
+  );
+
+  await streamer.joinVoice(channel.guildId, channel.id);
+
+  if (channel instanceof StageChannel) {
+    await streamer.client.user.voice.setSuppressed(false);
+  }
+  const stream_key = `guild:${channel.guildId}:${channel.id}:${streamer.client.user.id}`;
+  const image_url =
+    "https://cdn.discordapp.com/attachments/1233670213128556605/1332980220021702732/image.png?ex=67988b92&is=67973a12&hm=ac5274a447da3f3267fce8b8664be73e5d599a0d6a333758f26874f77cf9c248&";
+
+  const { command, output } = prepareStream(url, {
+    width: config.streamOpts.width,
+    height: config.streamOpts.height,
+    frameRate: config.streamOpts.fps,
+    bitrateVideo: config.streamOpts.bitrateKbps,
+    bitrateVideoMax: config.streamOpts.maxBitrateKbps,
+  });
+  // setTimeout(() => sendPreviewRequest(stream_key, image_url, config.token),2000);
+  current = command;
+  await playStream(output, streamer).catch(() => current?.kill("SIGTERM"));
+}
+async function selectFansub(answer: PollAnswer, userId: string) {
+  if (last.msge.id == answer.poll.message.id) {
+    let response: TextChannel = streamer.client.channels.cache.get(
+      answer.poll.message.channelId ?? ""
+    ) as TextChannel;
+    let Func: any = undefined;
+    if (last.msg && response.isText()) {
+      Func = last.msg.reply.bind(last.msg);
+    } else {
+      Func = response.send.bind(response);
+    }
+    last.msge.delete().catch(console.error);
+
+    const animeList = last.animeList as AnimeEpisode[];
+    const fansub = animeList[answer.id - 1];
+    globalThing(fansub, Func, userId);
+  }
+}
+async function globalThing(fansub: AnimeEpisode, Func: any, userId: string) {
+  const url = fansub.url;
+  const id = url.split("/embed/")[1];
+  if (!id) {
+    Func("Video bulunamadı.");
+    return;
+  }
+  const tauVideo = await getTauVideo(id);
+  const videoUrls = tauVideo.urls;
+  if (videoUrls?.length == 0) {
+    Func("Video bulunamadı.");
+    return;
+  }
+  if (videoUrls?.length == 1) {
+    await playVideo(userId, videoUrls[0].url);
+    return;
+  }
+  let msge = await Func({
+    poll: {
+      question: {
+        text: "Hangi Kalite",
+      },
+      //@ts-ignore
+      answers: videoUrls.map((anime) => {
+        return {
+          text: `${anime.label?.length ?? 0 > 55
+            ? anime.label.slice(0, 50) + "..."
+            : anime.label
+            }`,
+        };
+      }),
+      duration: 1,
+      allowMultiselect: false,
+    },
+  });
+  last = { type: "video", msge, msg: undefined, animeList: videoUrls };
+  console.log(tauVideo);
+}
+
+async function getTauVideo(id: string) {
+  try {
+    const url = `https://tau-video.xyz/api/video/${id}`;
+    const response = await axios.get(url, { headers: config.headers });
+    return response.data;
+  } catch (error) {
+    console.error("Hata oluştu:", error);
+  }
+}
+async function getAnimeId(answer: PollAnswer, userId: string) {
+  if (last.msge.id == answer.poll.message.id) {
+    last.msge.delete().catch(console.error);
+    let response: TextChannel = streamer.client.channels.cache.get(
+      answer.poll.message.channelId ?? ""
+    ) as TextChannel;
+    let Func: any = undefined;
+    if (last.msg && response.isText()) {
+      Func = last.msg.reply.bind(last.msg);
+    } else {
+      Func = response.send.bind(response);
+    }
+    if (current) {
+      Func("Şu anda bir video oynatılıyor.");
+      return;
+    }
+    console.log(last.animeList)
+    const anime = (last.animeList as AnimeSearchResponse).results[answer.id - 1]
+    const msg = (await Func(
+      `Send the season number and episode number of ${anime.name} (Example: 2 1 or 1)`
+    )) as Message;
+    const collector = msg.channel.createMessageCollector({
+      filter: (m) => config.admins.includes(m.author.id),
+      time: 60000,
+    });
+    collector.on("collect", async (m) => {
+      const { season, episode } = formatMessageForSeason(m.content);
+      const videoURL = await getVideoURLs(anime.id, season, episode);
+      const filteredVideoURL = filterVideoURLs(videoURL).splice(0, 4);
+      if (filteredVideoURL?.length == 0) {
+        m.reply("Video bulunamadı.");
+        return;
+      }
+      if (filteredVideoURL?.length == 1) {
+        globalThing(filteredVideoURL[0], Func, userId);
+        return;
+      }
+      let msge = await msg.reply({
+        poll: {
+          question: {
+            text: "Hangi fansub?",
+          },
+          //@ts-ignore
+          answers: filteredVideoURL.map((anime) => {
+
+            return {
+              text: `${anime.extra ? anime.extra?.length ?? 0 > 55
+                ? anime.extra.slice(0, 50) + "..."
+                : anime.extra : "Tau video"
+                }`,
+            };
+          }),
+          duration: 1,
+          allowMultiselect: false,
+        },
+      });
+      last = {
+        type: "fansub",
+        msg: msg,
+        msge: msge,
+        animeList: filteredVideoURL,
+      };
+      function formatMessageForSeason(message: string) {
+        const [season, episode] = message.split(" ");
+        if (season && !episode) {
+          return { season: 1, episode: parseInt(season) };
+        } else if (season && episode) {
+          return { season: parseInt(season), episode: parseInt(episode) };
+        }
+      }
+    });
+    return;
+  }
+}
+type AnimeEpisode = {
+  _id: string;
+  episode_id: number;
+  episode_num: number;
+  url: string;
+  extra: string;
+  name: string;
+};
+function filterVideoURLs(videoURLs: AnimeEpisodeList): AnimeEpisodeList {
+  return videoURLs.filter((video) => video.url.includes("tau"));
+}
+type AnimeEpisodeList = AnimeEpisode[];
+async function getVideoURLs(
+  animeId: number | string,
+  season: number,
+  episode: number
+): Promise<AnimeEpisodeList> {
+  const response = await axios.get(
+    `https://animecix.net/secure/episode-videos?titleId=${animeId}&episode=${episode}&season=${season}`
+  );
+  return response.data as AnimeEpisodeList;
+}
+type AnimeTitle = {
+  _id: string;
+  id: number;
+  name: string;
+  name_romanji: string;
+  name_english: string;
+  type: string;
+  release_date: string;
+  season_count: number;
+  language: string;
+  country: string | null;
+  original_title: string;
+  affiliate_link: string | null;
+  tmdb_vote_count: number | null;
+  certification: string | null;
+  episode_count: number;
+  series_ended: boolean;
+  is_series: boolean;
+  local_vote_average: number | null;
+  show_videos: boolean;
+  adult: boolean;
+  videos_url_title_id_unique: string;
+  local_vote_count: number | null;
+  replace_url: string | null;
+  is_ready: boolean;
+  anilist_id: number;
+  next_release_date: string | null;
+  next_episode_number: number;
+  next_episode_date: number;
+  home_video: string;
+  is_public: boolean;
+  model_type: string;
+  keywords: string[] | null;
+  genres: string[] | null;
+  __v: number;
+  titles: string[] | null;
+};
+
+type AnimeSearchResponse = {
+  results: AnimeTitle[];
+  query: string;
+  status: string;
+};
+async function searchAnimecix(name: string): Promise<AnimeSearchResponse> {
+  const anime = await axios.get(
+    `https://animecix.net/secure/search/${encodeURIComponent(
+      name
+    )}?type=&limit=4&provider=`,
+    { headers: config.headers }
+  );
+  const json = anime.data as AnimeSearchResponse;
+  return json;
+}
+// login
+streamer.client.login(config.token);
+
+function parseArgs(message: string): string | undefined {
+  const args = message.split(/ +/g);
+
+  const cmd = args.shift().toLowerCase();
+  if (args.length == 0) return;
+  return args.join(" ");
+}
